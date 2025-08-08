@@ -1,0 +1,28 @@
+h1{ /* o rgb é um modelo de cores basiado na combinação das seguintes cores  
+    R: RED
+    G: GREEN
+    B: BLUE
+    
+    Usamos esse modelo pos ele é usado para representar cores em telas. ex: monitores, tvs,celulares e navegadores web*/
+
+
+    color: rgb(255, 0, 0);
+    text-align: center;
+}
+p{
+    color: rgb(3, 0, 12);
+    font-size: 20px;
+    text-align: justify;
+    
+}
+
+body{
+    background-color: rgba(235, 167, 167, 0.541);
+}
+
+
+#paragrafo-footer{
+
+    text-align: center;
+}
+/* usamos o id para estilizar um elemento específico, nesse caso o parágrafo do footer */ 
